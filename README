@@ -1,0 +1,6 @@
+# DATA ANALYSIS #
+- For the name column, consider only pulling the last name
+- Associate the last name with the cabin
+- The fare column may not be relevant as higher paying costumers still died while some lower paying costumers survived
+- Try to link the last names with, sibSp, Parch, and cabin
+- Embarked may not be useful
